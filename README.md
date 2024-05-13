@@ -13,14 +13,6 @@ The Tower of Hanoi is a classic mathematical puzzle that challenges players to m
 - AI solutions: For users seeking assistance or optimal solutions, our game offers AI-driven algorithms to solve the Tower of Hanoi puzzle, showcasing different strategies and approaches.
 - Educational tool: Our project serves as an educational tool for learning about algorithms, recursion, and problem-solving techniques in the context of the Tower of Hanoi puzzle.
 
-## Installation
-
-To run the Tower of Hanoi game on your local machine, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/MostafaHaboba/tower-of-hanoi-project.git`.
-2. Navigate to the project directory.
-3. Open the `index.html` file in your web browser to launch the game.
-
 ## Usage
 
 - Select the number of disks and difficulty level from the game menu.
